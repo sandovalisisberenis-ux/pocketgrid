@@ -20,7 +20,7 @@ PocketGrid is the smallest responsive grid system having so many features:
 - **Automatic rows** (when a row is full, the next blocks go to a new row without doing anything)
 - No dependencies
 - Compatible with CSS frameworks such as Twitter Bootstrap or Zurb Foundation (you can use the Bootstrap or Foundation components such as buttons, tabs, etc. and use the Pocket grid for other layout)
-- **Compatibility**: **IE6+, Firefox, Chrome, Safari, Opera, and mobile browsers (iPhone, iPad, Android...)**
+
 
 ## Documentation
 See http://arnaudleray.github.io/pocketgrid/docs/
